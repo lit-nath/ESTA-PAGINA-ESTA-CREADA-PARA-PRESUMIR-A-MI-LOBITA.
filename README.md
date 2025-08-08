@@ -20,3 +20,8 @@ Mi primera pagina web.
 </html>
 
 ![wendy](https://github.com/user-attachments/assets/b799367e-303f-4577-9bf0-77ee1f2a44d5)
+background: url("wendy.jpg") center center no-repeat;
+background-size: cover;
+filter: brightness(0.8);
+
+
