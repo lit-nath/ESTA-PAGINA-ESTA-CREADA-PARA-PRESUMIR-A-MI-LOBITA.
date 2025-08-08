@@ -2,7 +2,7 @@
 Mi primera pagina web.
 
 
-<!DOCTYPE html>
+
 <html lang="es-ES">
 <head>
     <meta charset="UTF-8">
@@ -18,6 +18,5 @@ Mi primera pagina web.
     </div>
 </body>
 </html>
-}
 
 ![wendy](https://github.com/user-attachments/assets/b799367e-303f-4577-9bf0-77ee1f2a44d5)
