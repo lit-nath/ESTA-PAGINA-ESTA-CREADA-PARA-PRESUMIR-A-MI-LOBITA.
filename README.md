@@ -19,5 +19,5 @@ Mi primera pagina web.
 </body>
 </html>
 
-![wendy](https://github.com/user-attachments/assets/b799367e-303f-4577-9bf0-77ee1f2a44d5);
+![wendy](https://github.com/user-attachments/assets/b799367e-303f-4577-9bf0-77ee1f2a44d5) EL AMOR DE MI VIDAAAAAAAA
 
