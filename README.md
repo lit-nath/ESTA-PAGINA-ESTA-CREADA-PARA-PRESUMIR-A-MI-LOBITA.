@@ -11,10 +11,10 @@ Bienvenid@s a tod@s me llamo Natanael.
 <body>
     <div class="contenedor">
       ;
-         Mi novia hermosa, te amo tanto lee esto con mucho cariño.❤️
+         Mi novia hermosa, te amo tanto lee esto con mucho cariño.<3
         
         
-        <p> Ella es mi novia, la mujer de mi vida , la dueña de mi corazon, la amo con todas mis fuerzas, es muy hermosa e inteligente, me encanta demasiado, daría lo que fuera para que sea feliz siempre</p>
+        <p> Ella es mi novia, la mujer de mi vida , la dueña de mi corazon, la amo con todas mis fuerzas, es muy hermosa e inteligente, me encanta demasiado, daría lo que fuera para que sea feliz siempre.❤️</p>
     
     </div>
 </body>
@@ -24,7 +24,9 @@ Bienvenid@s a tod@s me llamo Natanael.
 
 
 TE AMOOOR AMOR DE MI VIDAAAAAAAA! 
+
 regalame un Mc'FLURRY mi amor.
-<a href="#" class="boton-redirecction">Haz click aquí</a>
-https://www.mcdonalds.com.co/menu/postres/mcflurry-mms
+
+
+<a href="#" class="boton-redirecction">Haz click aquí</a> https://www.mcdonalds.com.co/menu/postres/mcflurry-mms
 
