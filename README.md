@@ -1,6 +1,6 @@
 Ign. Natanael_T
 
-# MI PRIMERA PAGINA Y ES IMPOSIBLE NO DECIR ESTO:
+# MI PRIMERA PAGINA WEB Y ES IMPOSIBLE NO DECIR ESTO:
 Bienvenid@s a tod@s me llamo Natanael.
 <html lang="es-ES">
 <head>
