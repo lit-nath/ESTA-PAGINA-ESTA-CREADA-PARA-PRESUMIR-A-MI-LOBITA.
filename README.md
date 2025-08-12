@@ -1,17 +1,17 @@
 Ign. Natanael_T
 
-# ESTA PAGINA ES CREADA PARA PRESUMIR A MI NOVIA!
+# MI PRIMERA PAGINA Y ES IMPOSIBLE NO DECIR ESSTO:
 Bienvenid@s a tod@s me llamo Natanael.
 <html lang="es-ES">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  Mi primera pagina web y es imposible no escribir esto:
+
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <div class="contenedor">
-      ;
+      
          Mi novia hermosa, te amo tanto lee esto con mucho cariño.<3
         
         
