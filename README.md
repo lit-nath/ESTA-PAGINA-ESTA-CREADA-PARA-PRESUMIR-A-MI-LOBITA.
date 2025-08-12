@@ -29,6 +29,5 @@ TE AMOOOR AMOR DE MI VIDAAAAAAAA!
 regalame un Mc'FLURRY mi amor.
 
 
-<a href="#" class="boton-redirecction">Haz click aquí</a
-<a href="#" class="boton-redirecction">https://www.mcdonalds.com.co/menu/postres/mcflurry-mms</a>
-
+<a href="#" class="boton-redirecction">Haz click aquí</a y si no te sale pa entrar, copia el link bb.
+<a href="#" class="boton-redirecction">(https://www.mcdonalds.com.co/menu/postres)</a>
