@@ -20,9 +20,9 @@
 ![gradowendy jpg](https://github.com/user-attachments/assets/4bc3204a-800b-4692-bbab-9938cf986f4d)
 
        
-        <p><strong>EL AMOR DE MI VIDAAAAAAAA ❤️</strong></p>
-        <p>Regálame una pizza, mi amor 🍕</p>
-    </div>
+        
+        EL AMOR DE MI VIDAAAAAAAA ❤️
+        Regálame una pizza, mi amor 🍕
 </body>
 </html>
 <a href="#" class="boton-redirecction">Haz click aquí</a>
