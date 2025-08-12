@@ -17,3 +17,6 @@
 EL AMOR DE MI VIDAAAAAAAA ❤️
 Regálame una pizza, mi amor 🍕
 <a href="#" class="boton-redirecction">Haz click aquí</a>
+
+
+![gradowendy jpg](https://github.com/user-attachments/assets/54da0641-f09b-4866-8543-743ba269ef51)
