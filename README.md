@@ -15,8 +15,9 @@
         </p>
       
 
-![gradowendy](https://github.com/user-attachments/assets/1f533324-59a9-4fec-a90e-20fa4c168cfd)
 
+
+![gradowendy jpg](https://github.com/user-attachments/assets/4bc3204a-800b-4692-bbab-9938cf986f4d)
 
        
         <p><strong>EL AMOR DE MI VIDAAAAAAAA ❤️</strong></p>
