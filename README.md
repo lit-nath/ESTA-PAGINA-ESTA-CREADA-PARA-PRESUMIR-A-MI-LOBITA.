@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="es-ES">
 <head>
     <meta charset="UTF-8">
@@ -19,9 +18,10 @@
 ![gradowendy](https://github.com/user-attachments/assets/1f533324-59a9-4fec-a90e-20fa4c168cfd)
 
 
+       
         <p><strong>EL AMOR DE MI VIDAAAAAAAA ❤️</strong></p>
-        <a href="#" class="boton-redirecction">Haz click aquí</a>
         <p>Regálame una pizza, mi amor 🍕</p>
     </div>
 </body>
 </html>
+<a href="#" class="boton-redirecction">Haz click aquí</a>
