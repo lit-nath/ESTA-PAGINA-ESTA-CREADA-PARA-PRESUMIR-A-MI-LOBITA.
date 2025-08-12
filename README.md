@@ -10,7 +10,8 @@ Bienvenid@s a tod@s me llamo Natanael.
 </head>
 <body>
     <div class="contenedor">
-        <h1 Mi novia hermosa, te amo tanto ❤️</h1>
+         Mi novia hermosa, te amo tanto lee esto con mucho cariño.❤️
+        
         <p> Ella es mi novia, la mujer de mi vida , la dueña de mi corazon, la amo con todas mis fuerzas, es muy hermosa e inteligente, me encanta demasiado, daría lo que fuera para que sea feliz siempre</p>
         <a href="#" class="boton-redirecction">Haz click aquí</a>
     </div>
@@ -20,5 +21,5 @@ Bienvenid@s a tod@s me llamo Natanael.
 ![gradowendy jpg](https://github.com/user-attachments/assets/40d92b56-292c-41e6-a091-a18d9a33baab)
 
 
-TE AMOOOE AMOR DE MI VIDAAAAAAAA! 
+TE AMOOOR AMOR DE MI VIDAAAAAAAA! 
 regalame una pizza mi amor.
