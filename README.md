@@ -1,8 +1,6 @@
 Tú dijiste:
-# MI-PAGINA-WEB
-Bienvenid@s a mi página web, me llamo Natanael.
- 
- Página de Natanael dedicado a su novia.❤️
+# ESTA PAGINA ES CREADA PARA PRESUMIR A MI NOVIA!
+Bienvenid@s a tod@s me llamo Natanael.
 <html lang="es-ES">
 <head>
     <meta charset="UTF-8">
@@ -19,5 +17,7 @@ Bienvenid@s a mi página web, me llamo Natanael.
 </body>
 </html>
 
-![wendy](https://github.com/user-attachments/assets/b799367e-303f-4577-9bf0-77ee1f2a44d5) EL AMOR DE MI VIDAAAAAAAA! 
-regalame una pizza mi amor
+![wendy](https://github.com/user-attachments/assets/b799367e-303f-4577-9bf0-77ee1f2a44d5)
+
+TE AMOOOE AMOR DE MI VIDAAAAAAAA! 
+regalame una pizza mi amor.
