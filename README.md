@@ -1,6 +1,7 @@
 # MI-PAGINA-WEB
-Mi primera pagina web.
+Mi primera pagina web y es imposible no escribir esto...
 
+Ella es mi novia, la mujer de mi vida , la dueña de mi corazon, la amo con todas mis fuerzas, es muy hermosa e inteligente, me encanta demasiado, daría lo que fuera para que sea feliz siempre.
 
 
 <html lang="es-ES">
@@ -12,12 +13,13 @@ Mi primera pagina web.
 </head>
 <body>
     <div class="contenedor">
-        <h1>Bienvenido a mi página web, me llamo Natanael.</h1>
+        <h1>Bienvenid@s a mi página web, me llamo Natanael y esta es mi lobita hermosa.</h1>
         <p>Mi novia hermosa, te amo tanto ❤️</p>
         <a href="#" class="boton-redirecction">Haz click aquí</a>
     </div>
 </body>
 </html>
 
-![wendy](https://github.com/user-attachments/assets/b799367e-303f-4577-9bf0-77ee1f2a44d5) EL AMOR DE MI VIDAAAAAAAA
+![wendy](https://github.com/user-attachments/assets/b799367e-303f-4577-9bf0-77ee1f2a44d5) EL AMOR DE MI VIDAAAAAAAA! 
+regalame una pizza mi amor
 
