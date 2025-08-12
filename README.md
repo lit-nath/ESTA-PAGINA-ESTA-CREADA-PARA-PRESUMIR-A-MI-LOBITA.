@@ -16,8 +16,9 @@
         </p>
 
         
-![gradowendy](https://github.com/user-attachments/assets/b208f8a2-ea43-4fd2-bad5-7870b042c843)
+![gradowendy](https://github.com/user-attachments/assets/0d28cc85-9676-455f-85c5-8308a1934d2c)
 
+        
         EL AMOR DE MI VIDAAAAAAAA ❤️
         Regálame una pizza, mi amor 🍕
 
