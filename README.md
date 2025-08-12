@@ -15,6 +15,7 @@
         </p>
 
 ![Mi foto](https://1drv.ms/i/c/bf0113ba24f079c8/ER5e4XhvrYRIlvGY58hne94BWWIOCQapHU8LYRxpQU_kkA)
+![gradowendy jpg](https://github.com/user-attachments/assets/6127121d-0464-4f00-b09d-88d919bdae53)
 
         
 EL AMOR DE MI VIDAAAAAAAA ❤️
