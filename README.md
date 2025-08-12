@@ -14,6 +14,6 @@
             Me encanta demasiado y daría lo que fuera para que sea feliz siempre.
         </p>
         
-    EL AMOR DE MI VIDAAAAAAAA ❤️
+EL AMOR DE MI VIDAAAAAAAA ❤️
 Regálame una pizza, mi amor 🍕
 <a href="#" class="boton-redirecction">Haz click aquí</a>
