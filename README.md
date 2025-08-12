@@ -14,7 +14,7 @@
             Me encanta demasiado y daría lo que fuera para que sea feliz siempre.
         </p>
 
-(https://github.com/user-attachments/assets/6127121d-0464-4f00-b09d-88d919bdae53)
+![wendy y yo](https://github.com/user-attachments/assets/aa0d3f40-a9d0-4392-ad7c-c869302b1937)
 
         
 EL AMOR DE MI VIDAAAAAAAA ❤️
