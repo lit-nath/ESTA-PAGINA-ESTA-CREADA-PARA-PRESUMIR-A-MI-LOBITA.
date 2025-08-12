@@ -10,6 +10,12 @@ Bienvenid@s a tod@s me llamo Natanael.
 </head>
 <body>
     <div class="contenedor">
+        .contenedor{
+    text-align: ccenter;
+    padding: 20px;
+    background-color: rgb(99, 0, 99);
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(255, 255, 255, 0);
          Mi novia hermosa, te amo tanto lee esto con mucho cariño.❤️
         
         <p> Ella es mi novia, la mujer de mi vida , la dueña de mi corazon, la amo con todas mis fuerzas, es muy hermosa e inteligente, me encanta demasiado, daría lo que fuera para que sea feliz siempre</p>
