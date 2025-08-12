@@ -14,11 +14,6 @@
             Me encanta demasiado y daría lo que fuera para que sea feliz siempre.
         </p>
         
-![gradowendy jpg](https://github.com/user-attachments/assets/4bc3204a-800b-4692-bbab-9938cf986f4d)
-    
-        
     EL AMOR DE MI VIDAAAAAAAA ❤️
         Regálame una pizza, mi amor 🍕
-</body>
-</html>
 <a href="#" class="boton-redirecction">Haz click aquí</a>
