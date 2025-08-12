@@ -13,6 +13,9 @@
             La amo con todas mis fuerzas, es muy hermosa e inteligente.  
             Me encanta demasiado y daría lo que fuera para que sea feliz siempre.
         </p>
+
+![Mi foto](https://1drv.ms/i/c/bf0113ba24f079c8/ER5e4XhvrYRIlvGY58hne94BWWIOCQapHU8LYRxpQU_kkA)
+
         
 EL AMOR DE MI VIDAAAAAAAA ❤️
 Regálame una pizza, mi amor 🍕
