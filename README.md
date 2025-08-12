@@ -16,8 +16,7 @@ Bienvenid@s a tod@s me llamo Natanael.
     </div>
 </body>
 </html>
-
-![wendy](https://github.com/user-attachments/assets/b799367e-303f-4577-9bf0-77ee1f2a44d5)
+            
 ![gradowendy jpg](https://github.com/user-attachments/assets/40d92b56-292c-41e6-a091-a18d9a33baab)
 
 
