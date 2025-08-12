@@ -15,5 +15,5 @@
         </p>
         
     EL AMOR DE MI VIDAAAAAAAA ❤️
-        Regálame una pizza, mi amor 🍕
+Regálame una pizza, mi amor 🍕
 <a href="#" class="boton-redirecction">Haz click aquí</a>
