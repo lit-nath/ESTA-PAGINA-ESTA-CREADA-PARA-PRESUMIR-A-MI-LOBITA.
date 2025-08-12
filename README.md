@@ -1,7 +1,7 @@
 # MI-PAGINA-WEB
-Mi primera pagina web y es imposible no escribir esto...
+Mi primera pagina web y es imposible no escribir esto:
 
-Ella es mi novia, la mujer de mi vida , la dueña de mi corazon, la amo con todas mis fuerzas, es muy hermosa e inteligente, me encanta demasiado, daría lo que fuera para que sea feliz siempre.
+Bienvenid@s a mi página web, me llamo Natanael y esta es mi lobita hermosa.
 
 
 <html lang="es-ES">
@@ -13,7 +13,8 @@ Ella es mi novia, la mujer de mi vida , la dueña de mi corazon, la amo con toda
 </head>
 <body>
     <div class="contenedor">
-        <h1>Bienvenid@s a mi página web, me llamo Natanael y esta es mi lobita hermosa.</h1>
+        <h1Ella es mi novia, la mujer de mi vida , la dueña de mi corazon, la amo con todas mis fuerzas,
+            es muy hermosa e inteligente, me encanta demasiado, daría lo que fuera para que sea feliz siempre.</h1>
         <p>Mi novia hermosa, te amo tanto ❤️</p>
         <a href="#" class="boton-redirecction">Haz click aquí</a>
     </div>
